@@ -1,6 +1,5 @@
-# Ingenj-rsmetodikII1300-
-IngenjörsmetodikII1300 kurs i KTH-Datateknik
-
+# Ingenjörsmetodik II1300
+Ingenjörsmetodik II1300 kurs i KTH-Datateknik
 
 ## 
 * Klockan C-kod
